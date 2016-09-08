@@ -1,0 +1,15 @@
+{
+  "name": "exif-coppier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafał Warzycha",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.0.6",
+    "piexifjs": "^1.0.0"
+  }
+}
